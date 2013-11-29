@@ -3,7 +3,8 @@ Etsy Thanks ASCII Art Displayer
 
 This is a tiny JavaScript (+ HTML & CSS) program that slowly displays an ASCII art image that I made, character-by-character. I made it as a thank-you to the folks at Etsy that sponsored me as a student at Hacker School.
 
-###See it in action [here](http://emilysommer.com/thanks.html):
+###See it in action [here](http://emilysommer.com/etsy/thanks.html).
+*http://www.emilysommer.com/etsy/thanks.html
 
 Code Choices
 ------------
