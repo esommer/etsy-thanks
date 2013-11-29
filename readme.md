@@ -57,8 +57,8 @@ The display function could be a lot faster -- it slows down towards the end beca
 
 Future Goals:
 --------------
-- [ ] Optimize for speed, break character additions into line-by-line divs to keep speed equal throughout runtime (it currently slows down towards the end).
-- [ ] Generalize this! Have it accept a text variable as input and some rules for the coloring of it and output the dislay code.
+- Optimize for speed, break character additions into line-by-line divs to keep speed equal throughout runtime (it currently slows down towards the end).
+- Generalize this! Have it accept a text variable as input and some rules for the coloring of it and output the dislay code.
 
 Proud of:
 ----------
